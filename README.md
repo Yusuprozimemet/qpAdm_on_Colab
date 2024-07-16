@@ -22,3 +22,5 @@ plink --23file genome.txt Chang Christopher --out plink_genome
 - Follow the steps sequentially on Colab.
 - If you find this helpful, consider liking and following me for more updates.
 - Good luck with your analyses!
+
+[Open in Google Colab](https://colab.research.google.com/drive/1ZJM2iefEgxJp0mZUsDZZteBQL0Zd4L_r?usp=sharing)
