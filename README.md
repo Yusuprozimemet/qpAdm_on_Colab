@@ -58,7 +58,7 @@ plink --23file genome.txt Chang Christopher --out plink_genome
 ### Step 4: Run Analysis Using qpAdm
 
 7. **Run `qpAdm`:**
-   - Executes `qpAdm` from `/content/AdmixTools-master/bin/qpAdm` to perform admixture analysis.
+   - Executes `qpAdm` from `/content/AdmixTools-master/bin/qpAdm` to check if its properly installed.
 
 ### Step 5: Prepare PLINK and Genetic Data
 
