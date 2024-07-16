@@ -1,5 +1,5 @@
 # qpAdm_on_Colab
-
+## This is qpAdm with individual data provided by LivingDNA (but this can be applied to DNA results from various companies).
 ## References:
 1. [AdmixTools on GitHub](https://github.com/DReichLab/AdmixTools/tree/master)
 2. [Allen Ancient DNA Resource](https://reich.hms.harvard.edu/allen-ancient-dna-resource-aadr-downloadable-genotypes-present-day-and-ancient-dna-data)
