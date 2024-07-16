@@ -1,0 +1,13 @@
+geno1: /content/AdmixTools-master/bin/dataset/v54.1.p1_1240K_public.geno
+snp1: /content/AdmixTools-master/bin/dataset/v54.1.p1_1240K_public.snp
+ind1: /content/AdmixTools-master/bin/dataset/v54.1.p1_1240K_public.ind
+
+geno2: /content/AdmixTools-master/bin/Genome_eigenstrat.geno
+snp2: /content/AdmixTools-master/bin/Genome_eigenstrat.snp
+ind2: /content/AdmixTools-master/bin/Genome_eigenstrat.ind
+
+genooutfilename: /content/AdmixTools-master/bin/Yusup_merged_with_1240K.geno
+snpoutfilename: /content/AdmixTools-master/bin/Yusup_merged_with_1240K.snp
+indoutfilename: /content/AdmixTools-master/bin/Yusup_merged_with_1240K.ind
+
+outputformat: EIGENSTRAT

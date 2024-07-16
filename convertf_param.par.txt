@@ -1,0 +1,7 @@
+genotypename: /content/AdmixTools-master/bin/Genome_merged.bed
+snpname: /content/AdmixTools-master/bin/Genome_merged_hh.bim
+indivname: /content/AdmixTools-master/bin/Genome_merged_hh.fam
+outputformat: EIGENSTRAT
+genotypeoutname: /content/AdmixTools-master/bin/Genome_eigenstrat.geno
+snpoutname: /content/AdmixTools-master/bin/Genome_eigenstrat.snp
+indivoutname: /content/AdmixTools-master/bin/Genome_eigenstrat.ind
